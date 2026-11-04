@@ -3,3 +3,5 @@ Today we learned about GitHub and how to commit and push out changes from the lo
 My name is Shai.
 
 This is my story. You heard it here.
+
+Version 2
