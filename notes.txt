@@ -1,0 +1,5 @@
+Today we learned about GitHub and how to commit and push out changes from the local host to the cloud.
+
+My name is Shai.
+
+This is my story.
