@@ -4,4 +4,8 @@ My name is Shai.
 
 This is my story. You heard it here.
 
+<<<<<<< HEAD
 Version 2
+=======
+New Version pull and push
+>>>>>>> 0edab8783a943d5b98d850c3fbc3c19a5e1f6ed7
