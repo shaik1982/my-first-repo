@@ -1,0 +1,2 @@
+# my-first-repo
+An AI implementor with equal parts brains and style
