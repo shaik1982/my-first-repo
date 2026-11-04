@@ -1,2 +1,1 @@
-# my-first-repo
-An AI implementor with equal parts brains and style
+# my-first-repoAn AI implementor with equal parts brains and styleIn an AI course
